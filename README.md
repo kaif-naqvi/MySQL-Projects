@@ -29,9 +29,6 @@ Aggregates and analyzes sales trends per region and product.<br>
 Extracts insights like:<br>
 <br>
 Highest-grossing products<br>
-
 Regional sales patterns<br>
-
-Price volatility
-
+Price volatility<br>
 Time-based trends
