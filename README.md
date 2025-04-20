@@ -3,14 +3,10 @@ A data engineering and analytics project that focuses on importing, cleaning, so
 <br>
 <br>
 **Project Objectives** <br>
-Import and structure raw market data.
-<br>
-Cleanse and normalize data for consistency and accuracy.
-<br>
-Sort and organize entries by relevant attributes such as region, product, and pricing.
-<br>
-Analyze trends across different product types, regions, and time periods.
-<br>
+Import and structure raw market data.<br>
+Cleanse and normalize data for consistency and accuracy.<br>
+Sort and organize entries by relevant attributes such as region, product, and pricing.<br>
+Analyze trends across different product types, regions, and time periods.<br>
 Enable downstream data visualizations and dashboards for business intelligence.
 <br>
 <br>
