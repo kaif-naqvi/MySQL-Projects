@@ -11,15 +11,13 @@ A data engineering and analytics project that focuses on importing, cleaning, so
 <br>
 <br>
 **SQL script that performs the following tasks:**<br>
-
 1. Creates database and table structures.<br>
 2. Imports the CSV file into a SQL-compatible table.<br>
 3. Cleans data by filtering out nulls or invalid values.<br>
 4. Sorts entries based on date, region, and sales.<br>
 5. Aggregates and analyzes sales trends per region and product.<br>
 <br>
-Extracts insights like:<br>
-
+**Extracts insights like:**<br>
 1. Highest-grossing products<br>
 2. Regional sales patterns<br>
 3. Price volatility<br>
