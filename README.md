@@ -18,7 +18,7 @@ SQL script that performs the following tasks:<br>
 5. Aggregates and analyzes sales trends per region and product.<br>
 <br>
 Extracts insights like:<br>
-<br>
+
 1. Highest-grossing products<br>
 2. Regional sales patterns<br>
 3. Price volatility<br>
