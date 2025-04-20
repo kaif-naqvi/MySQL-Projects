@@ -10,7 +10,7 @@ A data engineering and analytics project that focuses on importing, cleaning, so
 5. Enable downstream data visualizations and dashboards for business intelligence.
 <br>
 <br>
-# SQL script that performs the following tasks: # <br>
+<h2>SQL script that performs the following tasks:<br>
 1. Creates database and table structures.<br>
 2. Imports the CSV file into a SQL-compatible table.<br>
 3. Cleans data by filtering out nulls or invalid values.<br>
