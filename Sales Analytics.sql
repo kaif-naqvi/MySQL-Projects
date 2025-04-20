@@ -61,7 +61,7 @@ from sales_table;
 select * from sales_table
 where sale_date = '2022-11-05';
 
--- how many transactions were mad on 2022-11-05
+-- how many transactions were made on 2022-11-05
 
 select count(transactions_id) from sales_table
 where sale_date = '2022-11-05';
