@@ -11,6 +11,7 @@ A data engineering and analytics project that focuses on importing, cleaning, so
 <br>
 SQL script that performs the following tasks:<br>
 <br>
+
 1. Creates database and table structures.<br>
 2. Imports the CSV file into a SQL-compatible table.<br>
 3. Cleans data by filtering out nulls or invalid values.<br>
