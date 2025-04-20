@@ -71,7 +71,7 @@ where sale_date = '2022-11-05';
 
 select * from sales_table
 where category = 'Clothing'
-and TO_CHAR(sale_date, 'yyyy-mm') = '2022-11'
+and DATE_FORMAT(sale_date, '%Y-%m') = '2022-11'
 and 
 quantiy >= 4;
 
@@ -79,7 +79,7 @@ quantiy >= 4;
  
 select count(transactions_id) from sales_table
 where category = 'Clothing'
-and TO_CHAR(sale_date, 'yyyy-mm') = '2022-11'
+and DATE_FORMAT(sale_date, '%Y-%m') = '2022-11'
 and 
 quantiy >= 4;
 
