@@ -10,7 +10,7 @@ create table sales_table
 	age	int,
 	category varchar(20),	
 	quantiy	int,
-	price_per_unit float,	
+	price_kjcdsjcndper_unit float,	
 	cogs	float,
 	total_sale float
 );
