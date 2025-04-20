@@ -3,24 +3,24 @@ A data engineering and analytics project that focuses on importing, cleaning, so
 <br>
 <br>
 **Project Objectives** <br>
-Import and structure raw market data.<br>
-Cleanse and normalize data for consistency and accuracy.<br>
-Sort and organize entries by relevant attributes such as region, product, and pricing.<br>
-Analyze trends across different product types, regions, and time periods.<br>
-Enable downstream data visualizations and dashboards for business intelligence.
+1. Import and structure raw market data.<br>
+2. Cleanse and normalize data for consistency and accuracy.<br>
+3. Sort and organize entries by relevant attributes such as region, product, and pricing.<br>
+4. Analyze trends across different product types, regions, and time periods.<br>
+5. Enable downstream data visualizations and dashboards for business intelligence.
 <br>
 <br>
 **SQL script that performs the following tasks:**<br>
-
-Creates database and table structures.<br>
-Imports the CSV file into a SQL-compatible table.<br>
-Cleans data by filtering out nulls or invalid values.<br>
-Sorts entries based on date, region, and sales.<br>
-Aggregates and analyzes sales trends per region and product.<br>
+<br>
+1. Creates database and table structures.<br>
+2. Imports the CSV file into a SQL-compatible table.<br>
+3. Cleans data by filtering out nulls or invalid values.<br>
+4. Sorts entries based on date, region, and sales.<br>
+5. Aggregates and analyzes sales trends per region and product.<br>
 <br>
 Extracts insights like:<br>
 <br>
-Highest-grossing products<br>
-Regional sales patterns<br>
-Price volatility<br>
-Time-based trends
+1. Highest-grossing products<br>
+2. Regional sales patterns<br>
+3. Price volatility<br>
+4. Time-based trends
