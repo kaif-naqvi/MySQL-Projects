@@ -13,15 +13,11 @@ Enable downstream data visualizations and dashboards for business intelligence.
 **SQL script that performs the following tasks:**<br>
 
 Creates database and table structures.<br>
-
 Imports the CSV file into a SQL-compatible table.<br>
-
 Cleans data by filtering out nulls or invalid values.<br>
-
 Sorts entries based on date, region, and sales.<br>
-
 Aggregates and analyzes sales trends per region and product.<br>
-
+<br>
 Extracts insights like:<br>
 <br>
 Highest-grossing products<br>
